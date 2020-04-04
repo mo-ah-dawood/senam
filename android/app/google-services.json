@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1033826339023",
+    "firebase_url": "https://senam-754f2.firebaseio.com",
+    "project_id": "senam-754f2",
+    "storage_bucket": "senam-754f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033826339023:android:ffdf801764f99954454fba",
+        "android_client_info": {
+          "package_name": "com.senam.senam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033826339023-akgvc0405h6v3j2i2uer7uv3ddsd9alu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB90SYaqBifljpPYddk6b8dlmx4VzL7I7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033826339023-akgvc0405h6v3j2i2uer7uv3ddsd9alu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
